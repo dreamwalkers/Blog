@@ -1,0 +1,14 @@
+D:\Workspace\Blog\Blog.Services\bin\Debug\netstandard2.0\Blog.Services.deps.json
+D:\Workspace\Blog\Blog.Services\bin\Debug\netstandard2.0\Blog.Services.dll
+D:\Workspace\Blog\Blog.Services\bin\Debug\netstandard2.0\Blog.Services.pdb
+D:\Workspace\Blog\Blog.Services\bin\Debug\netstandard2.0\Blog.DataAccess.dll
+D:\Workspace\Blog\Blog.Services\bin\Debug\netstandard2.0\Blog.Models.dll
+D:\Workspace\Blog\Blog.Services\bin\Debug\netstandard2.0\Blog.DataAccess.pdb
+D:\Workspace\Blog\Blog.Services\bin\Debug\netstandard2.0\Blog.Models.pdb
+D:\Workspace\Blog\Blog.Services\obj\Debug\netstandard2.0\Blog.Services.csprojAssemblyReference.cache
+D:\Workspace\Blog\Blog.Services\obj\Debug\netstandard2.0\Blog.Services.AssemblyInfoInputs.cache
+D:\Workspace\Blog\Blog.Services\obj\Debug\netstandard2.0\Blog.Services.AssemblyInfo.cs
+D:\Workspace\Blog\Blog.Services\obj\Debug\netstandard2.0\Blog.Services.csproj.CoreCompileInputs.cache
+D:\Workspace\Blog\Blog.Services\obj\Debug\netstandard2.0\Blog.Services.csproj.CopyComplete
+D:\Workspace\Blog\Blog.Services\obj\Debug\netstandard2.0\Blog.Services.dll
+D:\Workspace\Blog\Blog.Services\obj\Debug\netstandard2.0\Blog.Services.pdb
