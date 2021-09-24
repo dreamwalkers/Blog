@@ -3,10 +3,11 @@ D:\Workspace\Blog\Blog.DataAccess\bin\Debug\netstandard2.0\Blog.DataAccess.dll
 D:\Workspace\Blog\Blog.DataAccess\bin\Debug\netstandard2.0\Blog.DataAccess.pdb
 D:\Workspace\Blog\Blog.DataAccess\bin\Debug\netstandard2.0\Blog.Models.dll
 D:\Workspace\Blog\Blog.DataAccess\bin\Debug\netstandard2.0\Blog.Models.pdb
-D:\Workspace\Blog\Blog.DataAccess\obj\Debug\netstandard2.0\Blog.DataAccess.csprojAssemblyReference.cache
 D:\Workspace\Blog\Blog.DataAccess\obj\Debug\netstandard2.0\Blog.DataAccess.AssemblyInfoInputs.cache
 D:\Workspace\Blog\Blog.DataAccess\obj\Debug\netstandard2.0\Blog.DataAccess.AssemblyInfo.cs
 D:\Workspace\Blog\Blog.DataAccess\obj\Debug\netstandard2.0\Blog.DataAccess.csproj.CoreCompileInputs.cache
 D:\Workspace\Blog\Blog.DataAccess\obj\Debug\netstandard2.0\Blog.DataAccess.csproj.CopyComplete
 D:\Workspace\Blog\Blog.DataAccess\obj\Debug\netstandard2.0\Blog.DataAccess.dll
 D:\Workspace\Blog\Blog.DataAccess\obj\Debug\netstandard2.0\Blog.DataAccess.pdb
+D:\Workspace\Blog\Blog.DataAccess\obj\Debug\netstandard2.0\Blog.DataAccess.csproj.AssemblyReference.cache
+D:\Workspace\Blog\Blog.DataAccess\obj\Debug\netstandard2.0\Blog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,8 +1,5 @@
 D:\Workspace\Blog\Blog\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Workspace\Blog\Blog\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Workspace\Blog\Blog\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\Workspace\Blog\Blog\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
-D:\Workspace\Blog\Blog\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
 D:\Workspace\Blog\Blog\bin\Debug\netcoreapp3.1\Blog.API.exe
 D:\Workspace\Blog\Blog\bin\Debug\netcoreapp3.1\Blog.API.deps.json
 D:\Workspace\Blog\Blog\bin\Debug\netcoreapp3.1\Blog.API.runtimeconfig.json
@@ -149,7 +146,6 @@ D:\Workspace\Blog\Blog\bin\Debug\netcoreapp3.1\Blog.Services.dll
 D:\Workspace\Blog\Blog\bin\Debug\netcoreapp3.1\Blog.DataAccess.pdb
 D:\Workspace\Blog\Blog\bin\Debug\netcoreapp3.1\Blog.Models.pdb
 D:\Workspace\Blog\Blog\bin\Debug\netcoreapp3.1\Blog.Services.pdb
-D:\Workspace\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.API.csprojAssemblyReference.cache
 D:\Workspace\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.API.AssemblyInfoInputs.cache
 D:\Workspace\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.API.AssemblyInfo.cs
 D:\Workspace\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.API.csproj.CoreCompileInputs.cache
@@ -161,3 +157,6 @@ D:\Workspace\Blog\Blog\obj\Debug\netcoreapp3.1\staticwebassets\Blog.API.StaticWe
 D:\Workspace\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.API.dll
 D:\Workspace\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.API.pdb
 D:\Workspace\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.API.genruntimeconfig.cache
+D:\Workspace\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.API.csproj.AssemblyReference.cache
+D:\Workspace\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Blog\Blog\obj\Debug\netcoreapp3.1\scopedcss\bundle\Blog.API.styles.css

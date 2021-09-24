@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Workspace\Blog Publish</_PublishTargetUrl>
+    <History>True|2021-09-24T08:35:50.0967460Z;False|2021-09-24T14:04:20.4304562+05:30;True|2021-09-24T13:55:45.0246906+05:30;False|2021-09-24T13:54:00.9520294+05:30;True|2021-09-24T13:44:42.1717874+05:30;</History>
+  </PropertyGroup>
+</Project>

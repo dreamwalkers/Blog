@@ -1,0 +1,10 @@
+D:\Workspace\Blog\Blog.Models\bin\Release\netstandard2.0\Blog.Models.deps.json
+D:\Workspace\Blog\Blog.Models\bin\Release\netstandard2.0\Blog.Models.dll
+D:\Workspace\Blog\Blog.Models\bin\Release\netstandard2.0\Blog.Models.pdb
+D:\Workspace\Blog\Blog.Models\obj\Release\netstandard2.0\Blog.Models.csproj.AssemblyReference.cache
+D:\Workspace\Blog\Blog.Models\obj\Release\netstandard2.0\Blog.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Blog\Blog.Models\obj\Release\netstandard2.0\Blog.Models.AssemblyInfoInputs.cache
+D:\Workspace\Blog\Blog.Models\obj\Release\netstandard2.0\Blog.Models.AssemblyInfo.cs
+D:\Workspace\Blog\Blog.Models\obj\Release\netstandard2.0\Blog.Models.csproj.CoreCompileInputs.cache
+D:\Workspace\Blog\Blog.Models\obj\Release\netstandard2.0\Blog.Models.dll
+D:\Workspace\Blog\Blog.Models\obj\Release\netstandard2.0\Blog.Models.pdb

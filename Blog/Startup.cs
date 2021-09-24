@@ -13,11 +13,14 @@ using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
 using Blog.DataAccess;
 using Blog.Services;
+using Microsoft.AspNetCore.Http;
 
 namespace Blog.API
 {
     public class Startup
     {
+
+        readonly string MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -28,7 +31,18 @@ namespace Blog.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(options =>
+            {
+                options.AddPolicy(name: MyAllowSpecificOrigins,
+                                  builder =>
+                                  {
+                                      builder.WithOrigins("http://localhost:4200/");
+                                  });
+            });
+
             services.AddControllers();
+
+
 
             services.AddDbContext<BlogContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("BlogContext")));
@@ -73,6 +87,11 @@ namespace Blog.API
             app.UseStaticFiles();
 
             //app.UseSpaStaticFiles();
+
+            //app.Run(async (context) =>
+            //{
+            //    await context.Response.WriteAsync("Request handled and response generated");
+            //});
 
             app.UseMvc(routes =>
             {
